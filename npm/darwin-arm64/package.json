@@ -1,6 +1,6 @@
 {
   "name": "@harry-anderson/napi-test-darwin-arm64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "os": [
     "darwin"
   ],
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/harry-anderson/napi-test.git"
   },
- "license": "MIT",
+  "license": "MIT",
   "engines": {
     "node": ">= 10"
   }
