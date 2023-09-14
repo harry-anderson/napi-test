@@ -12,6 +12,10 @@
     "napi-test.darwin-x64.node"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry-anderson/napi-test.git"
+  },
   "engines": {
     "node": ">= 10"
   }
